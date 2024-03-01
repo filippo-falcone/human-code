@@ -1,0 +1,48 @@
+Team 6
+
+Consegna
+
+Scansionare un documento su più fogli fronte-retro
+La pratica perduta
+Finalmente sono riuscito a
+  ritrovare quella pratica che sembrava essere svanita nel nulla! Che poi,
+  possibile che nel 2021 ci siano ancora così tanti fogli di carta in giro per
+  l’ufficio?! Ora ci penso io: una bella scansione e l’archiviamo in formato digitale,
+  così la prossima volta so già dove andare a cercarla! L’unica pecca è che lo
+  scanner non ha il fronte-retro automatico e mi tocca farlo a mano. Va beh,
+  poco male, almeno sono pochi fogli!
+
+
+1 Prendo la pratica
+
+  - Apro la pratica
+  - Controllo la quantità di pagine
+  - Creo una cartella sul computer per l'archivio
+
+2 Vado nello scanner
+
+  - SE il coperchio è chiuso
+    - lo apro
+
+3 Scansiono la pratica fino all'ultimo foglio
+
+  - posiziono il foglio su fronte
+   - chiudo il coperchio
+   - scannerizzo
+   - SE la scansione è andata a buon fine
+    - apro il coperchio
+
+ - posiziono il foglio su retro
+   - chiudo il coperchio
+   - scannerizzo
+   - SE la scansione è andata a buon fine
+    - apro il coperchio
+
+ - tiro via il foglio dallo scanner
+
+ - e lo separo da quelli non scansionati
+
+4 Archivio la pratica
+ 
+ - Prendo il file della scansionsione
+ - lo sposto nella cartella di archivio
